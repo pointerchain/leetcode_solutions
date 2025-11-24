@@ -37,7 +37,5 @@ void printVector(const std::vector<int> &vec, int validSize = -1) {
 int main() {
   Solution s{};
 
-
-
   return 0;
 }
